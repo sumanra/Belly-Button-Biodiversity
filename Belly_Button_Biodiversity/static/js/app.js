@@ -103,7 +103,7 @@ function buildCharts(sample) {
     };
     var trace1 = [trace1];
     var layout = {
-      showlegend: false,
+      showlegend: true,
       height: 600,
       width: 1500
     };
