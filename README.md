@@ -49,10 +49,6 @@ Deploy your Flask app to Heroku.
 
 * You can use the provided sqlite file for the database.
 
-* Ask your Instructor and TAs for help!
-
-- - -
-
 ## Advanced Challenge Assignment (Optional)
 
 The following task is completely optional and is very advanced.
@@ -72,15 +68,4 @@ The following task is completely optional and is very advanced.
 Use Flask API starter code to serve the data needed for your plots.
 
 * Test your routes by visiting each one in the browser.
-
-- - -
-
-## Hints
-
-* Don't forget to `pip install -r requirements.txt` before you start your server.
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js Documentation](https://plot.ly/javascript/) when building the plots.
-
 
